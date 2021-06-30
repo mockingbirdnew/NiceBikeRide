@@ -2,4 +2,11 @@
     <string name="app_name">NiceBikeRide</string>
     <string name="main_activity_title">NiceBikeRide</string>
     <string name="main_activity_user_choice">Выбор пользователя</string>
+    <string name="main_activity_use">применить</string>
+    <string name="main_activity_change_user_settings">изменить настройки пользователей</string>
+    <string name="main_activity_delete_user">удалить пользователя</string>
+    <string name="setting_title">Nice bike ride</string>
+    <string name="setting_user_choice">Изменение параметров пользователя</string>
+    <string name="setting_avg_speed">средняя скорость движения без ветра</string>
+
 </resources>
