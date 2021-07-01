@@ -1,12 +1,24 @@
 <resources>
     <string name="app_name">NiceBikeRide</string>
-    <string name="main_activity_title">NiceBikeRide</string>
-    <string name="main_activity_user_choice">Выбор пользователя</string>
-    <string name="main_activity_use">применить</string>
-    <string name="main_activity_change_user_settings">изменить настройки пользователей</string>
-    <string name="main_activity_delete_user">удалить пользователя</string>
+    <string name="user_choice_title">NiceBikeRide</string>
+    <string name="user_choice_user_choice">Выбор пользователя</string>
+    <string name="user_choice_use">применить</string>
+    <string name="user_choice_change_user_settings">изменить настройки пользователей</string>
+    <string name="user_choice_delete_user">удалить пользователя</string>
+    <string name="user_choice_list_of_users">список пользователей</string>
+
     <string name="setting_title">Nice bike ride</string>
     <string name="setting_user_choice">Изменение параметров пользователя</string>
     <string name="setting_avg_speed">средняя скорость движения без ветра</string>
+    <string name="setting_user_activity_use">применить</string>
+    <string name="setting_user_back">назад</string>
+
+    <string name="activity_main_weather_conditions">погодные условия</string>
+    <string name="activity_main_temperature">температура</string>
+    <string name="activity_main_precipitation">осадки</string>
+    <string name="activity_main_wind_speed">скорость ветра</string>
+    <string name="activity_main_wind_direction">направление ветра</string>
+    <string name="activity_main_set_the_direction_of_movement">задайте направление движения</string>
+    <string name="activity_main_estimated_speed_of_movement">предположительная скорость движения</string>
 
 </resources>
