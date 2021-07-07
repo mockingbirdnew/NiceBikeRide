@@ -21,4 +21,7 @@
     <string name="activity_main_set_the_direction_of_movement">задайте направление движения</string>
     <string name="activity_main_estimated_speed_of_movement">предположительная скорость движения</string>
 
+    <string name="activity_weather_api_find_out_the_weather">узнать погоду</string>
+    <string name="activity_weather_api_current_weather">текущая погода</string>
+
 </resources>
