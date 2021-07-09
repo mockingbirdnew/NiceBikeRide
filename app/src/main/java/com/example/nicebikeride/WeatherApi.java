@@ -21,10 +21,11 @@ public class WeatherApi extends AppCompatActivity {
     }
     protected void initRetrofit() {
         OkHttpClient client = new OkHttpClient.Builder()
+                .addInterceptor(new IntEx())
                 .build();
 
         Retrofit retrofit = (new Retrofit.Builder())
-                .baseUrl("https://weatherapi.com/")
+                .baseUrl("https://api.openweathermap.org/")
                 .addConverterFactory(GsonConverterFactory.create(new Gson()))
                 .client(client)
                 .build();
